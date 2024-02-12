@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alejandra.franco1290@gmail.com**
 
-- 📄 Know about my experiences [Multimedia designer and final semester student in software engineering with five years of experience in UX/UI design and Frontend development](Multimedia designer and final semester student in software engineering with five years of experience in UX/UI design and Frontend development)
+- 📄 Know about my experiences [Multimedia designer and final semester student in software engineering with five years of experience in UX/UI design and Frontend development]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
