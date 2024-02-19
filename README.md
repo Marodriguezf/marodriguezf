@@ -5,11 +5,11 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f8/84/56/f8845671ba7ee98be6df3d997045ce08.gif">
 
-- 🔭 I’m currently working on **Vibepass**
+- 🔭 I’m currently working on **Vibepass, Appointments 24/7**
 
 - 🌱 I’m currently learning **React Js, Angular**
 
-- 👨‍💻 All of my projects are available at [https://alejandrafranco129.wixsite.com/portafolio](https://alejandrafranco129.wixsite.com/portafolio)
+- 👨‍💻 All of my projects are available at [(https://figmashort.link/mmw6kQ  )](https://figmashort.link/mmw6kQ  ))
 
 - 💬 Ask me about **UX/UI,Web Development**
 
