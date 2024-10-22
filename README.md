@@ -5,17 +5,13 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f8/84/56/f8845671ba7ee98be6df3d997045ce08.gif">
 
-- 🔭 I’m currently working on **Vibepass, Appointments 24/7**
 
-- 🌱 I’m currently learning **React Js, Angular**
-
-- 👨‍💻 All of my projects are available at [(https://figmashort.link/mmw6kQ  )](https://figmashort.link/mmw6kQ  ))
+- 👨‍💻 All of my UX/UI projects are available at [(https://figmashort.link/mmw6kQ  )](https://figmashort.link/mmw6kQ  ))
 
 - 💬 Ask me about **UX/UI,Web Development**
 
 - 📫 How to reach me **alejandra.franco1290@gmail.com**
 
-- 📄 Know about my experiences [Multimedia designer and final semester student in software engineering with five years of experience in UX/UI design and Frontend development]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
