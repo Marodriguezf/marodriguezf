@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ── HEADER WAVE ─────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=STACKLAYER_&fontColor=c084fc&fontSize=34&fontAlignY=40&desc=Software%20Engineer%20·%20Project%20Manager%20·%20AI%20Native&descAlignY=62&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Software Architect&fontColor=c084fc&fontSize=34&fontAlignY=40&desc=Software%20Engineer%20·%20Project%20Manager%20·%20AI%20Native&descAlignY=62&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -31,7 +31,6 @@
 ◈  工程师 · 项目经理 · 设计师  ◈
 ```
 
-## `whoami`
 
 I build products **end-to-end** — from stakeholder plan to deployed interface.
 My edge is exactly that overlap: I can architect a system *and* write the PMBOK documentation to ship it.
@@ -68,8 +67,6 @@ Currently studying **Gerencia de Proyectos** at Politécnico Grancolombiano — 
 ---
 
 <!-- ── TECH STACK ───────────────────────────────────────────── -->
-
-## `ls ./stack`
 
 <div align="center">
 
@@ -113,35 +110,7 @@ Currently studying **Gerencia de Proyectos** at Politécnico Grancolombiano — 
 
 <br/>
 
----
-
-<!-- ── GITHUB STATS ─────────────────────────────────────────── -->
-
-## `git log --stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d0b14&title_color=c084fc&icon_color=e879f9&text_color=c4b5fd&ring_color=7c3aed&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0d0b14&title_color=c084fc&text_color=c4b5fd&langs_count=6" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=0d0b14&ring=7c3aed&fire=e879f9&currStreakLabel=c084fc&sideLabels=a78bfa&dates=6d28d9" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0d0b14&color=c084fc&line=7c3aed&point=e879f9&area_color=6d28d9&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
----
-
 <!-- ── FEATURED PROJECTS ───────────────────────────────────── -->
-
-## `cat ./projects/featured.md`
 
 <div align="center">
 
