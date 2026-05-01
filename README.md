@@ -5,11 +5,6 @@
 
 <div align="center">
 
-<!-- ── HEADER WAVE ─────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Software Architect&fontColor=c084fc&fontSize=34&fontAlignY=40&desc=Software%20Engineer%20·%20Project%20Manager%20·%20AI%20Native&descAlignY=62&descColor=a78bfa&animation=fadeIn" width="100%"/>
-
-<br/>
-
 <!-- ── TYPING ANIMATION ───────────────────────────────────── -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=620&lines=Building+products+end-to-end+%E2%80%94+from+roadmap+to+release.;PM+by+discipline.+Developer+by+trade.+Designer+at+heart.;PMBOK+%7C+React+%7C+WordPress+%7C+Magnolia+%7C+Adobe+Suite;%E5%B7%A5%E7%A8%8B%E5%B8%88+%C2%B7+%E9%A1%B9%E7%9B%AE%E7%BB%8F%E7%90%86+%C2%B7+%E8%AE%BE%E8%AE%A1%E5%B8%88;Always+learning+%E2%80%94+EN+%F0%9F%87%BA%F0%9F%87%B8+%C2%B7+ZH+%F0%9F%87%A8%F0%9F%87%B3+%C2%B7+next+TBD" alt="Typing SVG"/>
 
@@ -32,13 +27,17 @@
 ```
 
 
-I build products **end-to-end** — from stakeholder plan to deployed interface.
-My edge is exactly that overlap: I can architect a system *and* write the PMBOK documentation to ship it.
+Software Engineer and Web Operations Leader with 7+ years of experience managing digital platforms and software
+development projects in global environments. Strong technical background in frontend development (Angular, React),
+backend engineering (.NET Core, Java, PHP, C++), REST API design, database management, and system architecture,
+combined with proven experience leading regional web operations, coordinating cross-functional teams, and aligning digital
+execution with business objectives.
 
-I think in frameworks, build with modern stacks, and treat design as a first-class citizen.
-Lately deep into AI tooling, automation, and making both code and process smarter.
-
-Currently studying **Gerencia de Proyectos** at Politécnico Grancolombiano — and yes, I build my own assignments as real projects.
+Skilled in UX/UI design principles, user-centered interface development, component-based architecture, and digital
+experience optimization, ensuring that technical solutions are scalable, intuitive, and aligned with business goals.
+Experienced in Magnolia CMS governance, content architecture, process standardization, stakeholder management, and
+regional implementation strategies across LATAM markets. Adept at bridging business and technical teams to deliver
+compliant, high-quality, and performance-driven digital solutions
 
 <br/>
 
